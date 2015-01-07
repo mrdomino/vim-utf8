@@ -1,4 +1,4 @@
-﻿setlocal fileencoding=utf-8
+setlocal fileencoding=utf-8
 
 " Some nice text formatting first
 imap <buffer> ' ’
